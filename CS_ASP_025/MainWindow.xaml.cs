@@ -84,5 +84,10 @@ namespace CS_ASP_025
             textBoxName.Text = null;
 
         }
+
+        private void textBoxTotalAmount_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
